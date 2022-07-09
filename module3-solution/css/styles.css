@@ -1,0 +1,15 @@
+nav.navbar{
+    background-color: grey;
+}
+nav button:hover, nav button:focus{
+    transform: scale(0.8,0.8);
+    color: white;
+
+}
+nav.navbar .nav-item{
+    border: 1px solid black;
+    background-color: white;
+}
+.content{
+    background-color: grey;
+}
